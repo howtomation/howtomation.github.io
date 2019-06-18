@@ -2,7 +2,7 @@
 layout: post
 title: Firs markdown file
 summary: Summary
-featured-img: ''
+featured-img: emile-perron-190221
 categories: guide,
 
 ---
