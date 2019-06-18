@@ -14,8 +14,10 @@ fields:
 - type: text
   name: featured-img
   label: featured-img
-- type: text
-  name: categories
+- name: categories
+  type: tag_list
+  default: []
   label: categories
+  description: Blog categories
 pages:
 - _posts/firs-markdown-file.md
