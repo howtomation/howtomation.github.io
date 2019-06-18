@@ -1,0 +1,19 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: summary
+  label: summary
+- type: text
+  name: featured-img
+  label: featured-img
+- type: text
+  name: categories
+  label: categories
